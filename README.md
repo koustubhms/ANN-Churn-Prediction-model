@@ -15,13 +15,12 @@ The model analyzes customer-related information and identifies potential custome
 
 ## 🛠️ Technologies & Libraries Used
 - Python
-- NumPy
 - Pandas
-- Matplotlib
-- Seaborn
 - Scikit-learn
-- TensorFlow / Keras
-- Streamlit (if used for the application UI)
+- TensorFlow
+- Tensorboard
+- Keras
+- Streamlit 
 
 ## 🧠 Model Architecture
 The project uses a Sequential Artificial Neural Network with:
@@ -38,14 +37,13 @@ The project uses a Sequential Artificial Neural Network with:
 
 ## ⚙️ Project Workflow
 1. Data Collection
-2. Exploratory Data Analysis (EDA)
-3. Data Preprocessing
-4. Feature Scaling
-5. Train-Test Split
-6. ANN Model Building
-7. Model Training
-8. Model Evaluation
-9. Customer Churn Prediction
+2. Data Preprocessing
+3. Feature Scaling
+4. Train-Test Split
+5. ANN Model Building
+6. Model Training
+7. Model Evaluation
+8. Customer Churn Prediction
 
 ## 📂 Project Structure
 ```text
