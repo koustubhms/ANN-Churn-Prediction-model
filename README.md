@@ -82,7 +82,7 @@ Bank-Customer-Churn-Prediction/
 
 **1. Clone the repository**
 ```bash
-git clone <your-repository-url>
+git clone <(https://github.com/koustubhms/ANN-Churn-Prediction-model/tree/main)>
 ```
 
 **2. Navigate to the project directory**
