@@ -3,6 +3,14 @@ An Artificial Neural Network (ANN) model designed to predict whether a customer 
 
 # Bank Customer Churn Prediction Using ANN
 
+## 🌐 Live Demo
+
+Try the deployed application here:
+
+👉 **[Bank Customer Churn Prediction – Live App](https://ann-churn-prediction-model-4kb2jbukn4t3uff3obph3c.streamlit.app/)**
+
+Explore the application and predict whether a bank customer is likely to leave.
+
 ## 📌 Project Overview
 This project uses an **Artificial Neural Network (ANN)** to predict whether a bank customer is likely to leave the bank or continue using its services.
 
